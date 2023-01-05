@@ -1,0 +1,6 @@
+Programa que utiliza requests para obtener los datos de una API de estadísticas de la NBA. 
+Grafíca en tablas los datos obtenidos sobre las posiciones de la liga y las estadísticas de los jugadores de un equipo elegido,
+en este caso los Denver Nuggets, liderados por el bicampeón del trofeo MVP Nikola Jokic
+
+Usando requests de nuevo, junto a regex y beautifulSoup, obtenemos las cuotas de la página de apuestas Sporty Trader, con las cuales estimamos la probabilidad de victoria de cada equipo
+Añadimos todo esto tambien al pdf
